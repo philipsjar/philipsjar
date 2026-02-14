@@ -1,30 +1,33 @@
-# philipsjar ☕
+```
+# philipsjar@github:~$ whoami
 
-Java Developer | Backend Engineering | Applied Mathematics
-
-Focused on JVM performance, low-level game networking, and procedural systems. I don't build "plugins," I build infrastructure.
-
----
-
-### 🔧 technical environment
-* **Core:** Java 21+, Concurrency (JUC), Reflection API, NMS
-* **Networking:** Netty, Packet Manipulation, gRPC
-* **Data:** Redis (Pub/Sub), PostgreSQL, HikariCP
-* **Build:** Multi-module Gradle, Maven, Git Actions (CI/CD)
-
-### 📈 stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=philipsjar&show_icons=true&theme=dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=philipsjar&layout=compact&theme=dark&hide_border=true" height="150" />
-</p>
+> Java Developer focalizzato su Minecraft (Paper/Velocity).
+> Specializzato in meccaniche di gioco avanzate e ottimizzazione. 🛠️
 
 ---
 
-### 🔍 interests
-- **Procedural Generation:** Noise functions, Voronoi diagrams, and recursive structures.
-- **Network Protocol:** Optimizing byte-buffers and custom packet serialization.
-- **Software Patterns:** Clean Architecture, SOLID, and Dependency Injection.
+### philipsjar@github:~$ ls skills/
+* ⚡ Core: Java 21, NMS, Concurrency, Packet Manipulation
+* 🔌 API: Paper, Spigot, Velocity, BungeeCord
+* 🗄️ Data: Redis, MySQL, MongoDB
+* 🛠️ Build: Maven, Gradle, Git
 
-### 📬 contact
-- **Discord:** `filippo.jar`
-- **Status:** Open for architectural consultation or complex backend tasks.
+### philipsjar@github:~$ cat projects.log
+* [DONE] Zenith-Cinematics: Motore per cutscene fluide senza scatti. 
+* [DEV]  ScriptedBosses: Boss Battle con AI e attacchi custom. 
+* [TODO] ParkourEngine: Plugin per parkour avanzato e grappling hook. 
+
+---
+
+### philipsjar@github:~$ fetch --skills
+* Minecraft & Java Programming 
+* Plugin Maker
+
+---
+
+### philipsjar@github:~$ finger filippo
+* **Discord:** `filippo.jar` 📱
+* **Status:** Disponibile per progetti complessi.
+
+# _
+```
